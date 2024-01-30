@@ -4,10 +4,10 @@
 
 This repository contains a simple website designed for practicing and mastering the fundamentals of Flexbox layout. Flexbox, or the Flexible Box Model, is a powerful CSS layout mechanism that provides an efficient way to design responsive and dynamic user interfaces.
 
-<img src='./img/align-items.png> width="100%"'>
-<img src='./img/align-items.png width="100%"'>
-<img src='./img/align-items.png width="100%"'>
-<img src='./img/align-items.png width="100%"'>
+<img src="./img/align-items.png" width="100%">
+<img src="./img/flex-directions.png" width="100%">
+<img src="./img/justify-content.png" width="100%">
+<img src="./img/layout.png" width="100%">
 
 ##Tools
 
